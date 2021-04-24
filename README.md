@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm TomohiroKuwano</h1>
-<h3 align="center">A self-paced robot engineer from Japan.</h3>
+<h1 align="left">Hey there 👋</h1>
+<h3 align="left">I'm a self-paced robot engineer from Japan.</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=qoopen0815&label=Profile%20views&color=0e75b6&style=flat" alt="qoopen0815" /> 
