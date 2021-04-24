@@ -18,11 +18,16 @@
   <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qoopen0815&show_icons=true&locale=en&layout=compact" alt="qoopen0815" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qoopen0815&show_icons=true&locale=en" alt="qoopen0815" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qoopen0815" alt="qoopen0815" /></a> </p>
+<p align="center"> 
+<a href="https://github.com/qoopen0815">
+  <img src="https://github-readme-stats.vercel.app/api?username=qoopen0815&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/qoopen0815">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qoopen0815" />
+</a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qoopen0815" alt="qoopen0815" /></a> 
+</p>
 
 
 <h3 align="left">Connect with me:</h3>
