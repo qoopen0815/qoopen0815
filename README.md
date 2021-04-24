@@ -3,7 +3,7 @@
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=qoopen0815&label=Profile%20views&color=0e75b6&style=flat" alt="qoopen0815" /> 
-  <a href="https://twitter.com/QooPen0815" target="blank"><img src="https://img.shields.io/twitter/follow/@QooPen0815?logo=twitter&style=for-the-badge" alt="@QooPen0815" /></a> </p>
+  <a href="https://twitter.com/qoopen0815" target="blank"><img src="https://img.shields.io/twitter/follow/@QooPen0815?logo=twitter&style=for-the-badge" alt="@QooPen0815" /></a> </p>
 
 
 <p align="left"> 
