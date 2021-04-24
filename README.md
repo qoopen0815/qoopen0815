@@ -3,6 +3,7 @@
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=qoopen0815&label=Profile%20views&color=0e75b6&style=flat" alt="qoopen0815" /> 
+  ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
   <a href="https://twitter.com/QooPen0815" target="blank"><img src="https://img.shields.io/twitter/follow/@QooPen0815?logo=twitter&style=for-the-badge" alt="@QooPen0815" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,7 +29,8 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/QooPen0815" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="@qoopen0815" height="30" width="40" /></a>
-</p>
+
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+[twitter]: https://twitter.com/qoopen0815
 
