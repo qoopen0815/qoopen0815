@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qoopen0815" alt="qoopen0815" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@qoopen0815" target="blank"><img src="https://img.shields.io/twitter/follow/@qoopen0815?logo=twitter&style=for-the-badge" alt="@qoopen0815" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@QooPen0815" target="blank"><img src="https://img.shields.io/twitter/follow/@QooPen0815?logo=twitter&style=for-the-badge" alt="@QooPen0815" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
