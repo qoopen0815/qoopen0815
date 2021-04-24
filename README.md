@@ -10,8 +10,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qoopen0815&show_icons=true&locale=en" alt="qoopen0815" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qoopen0815&" alt="qoopen0815" /></p>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qoopen0815&label=Profile%20views&color=0e75b6&style=flat" alt="qoopen0815" /> </p>
 
