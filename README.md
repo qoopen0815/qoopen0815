@@ -6,6 +6,15 @@
   ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
   <a href="https://twitter.com/QooPen0815" target="blank"><img src="https://img.shields.io/twitter/follow/@QooPen0815?logo=twitter&style=for-the-badge" alt="@QooPen0815" /></a> </p>
 
+
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qoopen0815" alt="qoopen0815" /></a> 
+<a href="https://github.com/qoopen0815">
+  <img src="https://github-readme-stats.vercel.app/api?username=qoopen0815&count_private=true&show_icons=true" />
+</a>
+</p>
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
@@ -18,15 +27,6 @@
   <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
   <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
 </p>
-
-
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qoopen0815" alt="qoopen0815" /></a> 
-<a href="https://github.com/qoopen0815">
-  <img src="https://github-readme-stats.vercel.app/api?username=qoopen0815&count_private=true&show_icons=true" />
-</a>
-</p>
-
 
 <h3 align="left">Connect with me:</h3>
 
