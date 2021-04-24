@@ -19,11 +19,11 @@
 </p>
 
 
-<p align="center"> 
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qoopen0815" alt="qoopen0815" /></a> 
 <a href="https://github.com/qoopen0815">
   <img src="https://github-readme-stats.vercel.app/api?username=qoopen0815&count_private=true&show_icons=true" />
 </a>
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qoopen0815" alt="qoopen0815" /></a> 
 </p>
 
 
