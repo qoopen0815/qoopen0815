@@ -12,9 +12,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qoopen0815&" alt="qoopen0815" /></p>
 
-[![](https://raw.githubusercontent.com/calm0815/calm0815/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/calm0815/calm0815/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qoopen0815&label=Profile%20views&color=0e75b6&style=flat" alt="qoopen0815" /> </p>
 
