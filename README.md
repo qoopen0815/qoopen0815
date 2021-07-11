@@ -4,9 +4,8 @@
   <img src="https://komarev.com/ghpvc/?username=qoopen0815&label=Profile%20views&color=0e75b6&style=flat" alt="qoopen0815" /> 
 </p>
 
-
 <p align="left"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=qoopen0815&count_private=true&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=qoopen0815&count_private=true&show_icons=true&theme=radical" />
 </a>
 </p>
 
